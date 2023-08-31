@@ -1,0 +1,5 @@
+INDEX VERSION 1.132
+D:\Pride Badge\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4276532921.index
+\MVC_Crud\src\main\resources
+D:\Pride Badge\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\209769911.index
+\MVC_Crud\src\main\java
